@@ -1,0 +1,65 @@
+.first-section{
+    background-color: #F0FFF0;
+    min-height: auto;
+}
+.logo a{
+    text-decoration: none;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 24px;
+    color: #56548C;
+}
+.logo a:hover{
+    text-decoration: none;
+    color:#56548C;
+}
+.logo img{
+    width: 80px;
+    height: 80px;
+}
+.menu ul li a{
+    font-size: 16px;
+    font-family: poppins;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px ;
+}
+.menu{
+    margin-top: 2%;
+}
+.signin-btn{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    padding: 10px 35px;
+    border-radius: 30px;
+    font-family: roboto;
+    font-size: 16px;
+    line-height: 19px;
+}
+.frst-sec{
+    padding:70px 10px;
+}
+.frst-sec img{
+    
+    width: 550px;
+    height: 345px;
+    
+}
+.frst-sec h1{
+    font-size: 48px;
+    font-family: poppins;
+    font-weight: bold;
+    line-height: 70px;
+}
+.frst-sec h1 span{
+    color: #21B573;
+}
+.frst-sec h6{
+    font-weight: 400;
+  color: gray;
+  font-family: poppins;
+  line-height: 36px;
+  margin-bottom: 20px;
+}
