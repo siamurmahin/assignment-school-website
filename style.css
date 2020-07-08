@@ -37,6 +37,7 @@
     font-family: roboto;
     font-size: 16px;
     line-height: 19px;
+    font-weight: 400;
 }
 .frst-sec{
     padding:70px 10px;
@@ -62,4 +63,163 @@
   font-family: poppins;
   line-height: 36px;
   margin-bottom: 20px;
+}
+/*Courses details (second section)*/
+.courses-details img{
+    width: 47px;
+    height: 50px;
+    margin-bottom: 25px;
+}
+.courses-details h5{
+    font-family: poppins;
+    font-weight: 600;
+    color: #413960;
+    line-height: 25px;
+}
+.courses-details p{
+    color: gray;
+    font-family: poppins;
+    font-size: 14px;
+    line-height: 14px;
+}
+.crs-1, .crs-2, .crs-3, .crs-4{
+    background-color:#F8FFFB;
+    border-radius: 10px;
+    padding: 50px 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+}
+.crs-shd-2{
+    background-color: white;
+    box-shadow: 0px 6px 20px rgba(128, 128, 128, 0.15555);
+}
+
+#second-section{
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.online-courses button{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    padding: 7px 20px;
+    border-radius: 30px;
+    font-family: roboto;
+    font-size: 15px;
+    line-height: 19px;
+    font-weight: normal;
+    
+}
+.online-courses h2{
+    color: #413960;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    margin:80px;
+}
+.online-courses h5{
+    font-family: Poppins;
+    font-weight: 550;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height */
+
+
+    color: #413960;
+
+}
+.online-courses img{
+    margin-top: 15px;
+}
+
+.card.crs-sec-1,  .card.crs-sec-2, .card.crs-sec-3{
+    border: none;
+     background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;;
+}
+.desig{
+    
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #585859;
+}
+.crs-btm{
+width: 24px;
+height: 24px;
+}
+.crs-text{
+    
+    font-family: Poppins;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 56px;
+
+
+
+}
+#third-section{
+    margin-bottom: 80px;
+}
+
+.four-section h2{
+    color: black;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    margin:80px;
+}
+.four-section span{
+    color: black;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+footer{
+    background-color: #282531;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+footer p{
+    font-family: Poppins;
+font-style: normal;
+
+font-size: 16px;
+line-height: 30px;
+}
+.text-heading{
+    font-weight: 700;
+}
+.contact-form{
+    padding:70px 100px;
+    background-color: #F0FFF0;
+}
+.contact-form h2{
+    color:#413960;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    margin-bottom: 50px;
+    
+}
+.contact-form label{
+    font-family: poppins;
+    color: gray;
 }
